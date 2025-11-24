@@ -1,0 +1,19 @@
+DATO EN XML (Etiqueta)  |  ELEMENTO HTML (ID)     |  VALOR EJEMPLO
+------------------------------------------------------------------
+Atributo id="G..."      |  (URL del navegador)    | G001
+
+<titol>                 |  id="titol-anime"       | Bakemonogatari
+
+<estudi>                |  id="estudi-anime"      | Shaft
+
+<data_estrena>          |  id="data-anime"        | 03/07/2009
+
+<genere>                |  id="genere-anime"      | Comedia / Sobrenatural
+
+<any>                   |  id="any-anime"         | 2009
+
+<plataforma>            |  id="plataforma-anime"  | Crunchyroll
+
+<valoracio>             |  id="valoracio-anime"   | 9.5
+
+<descripcio>            |  id="descripcio-anime"  | Anime con diálogos rápidos y curiosos sobre un estudiante que ayuda a chicas con problemas causados por entidades sobrenaturales
