@@ -1,88 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <cataleg>
-     <Anime id="G001">
-       <titol>Monogatari</titol>
-       <genere>Comedia</genere>
-       <any>2015</any>
-       <plataforma>CrunchyRoll</plataforma>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-         Anime de comedia con diferentes aspectos de humor de edades más avanzadas.
-       </descripcio>
-     </Anime>
 
-     <Anime id="G002">
-     <cataleg>
-     <Anime id="G001">
-       <titol>Frieren: Más allá del viaje del fin</titol>
-       <genere>Aventura y romance</genere>
-       <any>2021</any>
-       <plataforma>CrunchyRoll</plataforma>
-       <valoracio>9.7</valoracio>
-       <descripcio>
-        Historia de una elfa de avanzada edad que ha viajado por el mundo sin darse cuenta el transcurso del tiempo perdiendo a la persona que ama y ahora busca la paz.
-       </descripcio>
-     </Anime>
+    <Anime id="G001">
+        <titol>Monogatari Series</titol>
+        <genere>Comedia / Sobrenatural</genere>
+        <any>2009</any>
+        <data_estrena>03/07/2009</data_estrena>
+        <estudi>Shaft</estudi>
+        <plataforma>CrunchyRoll</plataforma>
+        <valoracio>9.5</valoracio>
+        <descripcio>Anime con diálogos rápidos y curiosos sobre un estudiante que ayuda a chicas con problemas causados por entidades sobrenaturales.</descripcio>
+    </Anime>
 
-     <Anime id="G002">
-          <Anime id="G002">
-     <cataleg>
-     <Anime id="G001">
-       <titol>Yofukashi no Uta</titol>
-       <genere>Aventura,romance y comedia</genere>
-       <any>2022</any>
-       <plataforma>CrunchyRoll</plataforma>
-       <valoracio>9.3</valoracio>
-       <descripcio>
-        Un chico con insomnio  conoce a una chica que resulta ser un vampiro haciendose amigos viviendo diferentes aventuras por la noche para finalmente enemorar-se.
-       </descripcio>
-     </Anime>
+    <Anime id="G002">
+        <titol>Frieren: Más allá del viaje</titol>
+        <genere>Aventura / Fantasía</genere>
+        <any>2023</any>
+        <data_estrena>29/09/2023</data_estrena>
+        <estudi>Madhouse</estudi>
+        <plataforma>CrunchyRoll</plataforma>
+        <valoracio>9.7</valoracio>
+        <descripcio>Historia de una elfa de avanzada edad que viaja para entender a los humanos y recordar a su antiguo grupo de héroes ya fallecidos.</descripcio>
+    </Anime>
 
-     <Anime id="G002">
-     
-        <Anime id="G002">
-          <Anime id="G002">
-     <cataleg>
-     <Anime id="G001">
-       <titol>Uma musume pretty dervy </titol>
-       <genere>Deportes y comedia</genere>
-       <any>2024</any>
-       <plataforma>CrunchyRoll</plataforma>
-       <valoracio>9.5</valoracio>
-       <descripcio>
-        Anime basado en cavallos conocidos en japon que compiten en carreras y deberean superar las diferentes dificultades que debieron afrontar en la vida narradas en una historia.
-       </descripcio>
-     </Anime>
+    <Anime id="G003">
+        <titol>Yofukashi no Uta</titol>
+        <genere>Romance / Sobrenatural</genere>
+        <any>2022</any>
+        <data_estrena>08/07/2022</data_estrena>
+        <estudi>Liden Films</estudi>
+        <plataforma>HiDive</plataforma>
+        <valoracio>9.3</valoracio>
+        <descripcio>Un chico con insomnio conoce a una chica vampiro. Deciden salir juntos por la noche hasta que él pueda enamorarse y convertirse en vampiro.</descripcio>
+    </Anime>
 
-     <Anime id="G002">
+    <Anime id="G004">
+        <titol>Uma Musume: Pretty Derby</titol>
+        <genere>Deportes / Idols</genere>
+        <any>2018</any>
+        <data_estrena>02/04/2018</data_estrena>
+        <estudi>P.A. Works</estudi>
+        <plataforma>CrunchyRoll</plataforma>
+        <valoracio>8.5</valoracio>
+        <descripcio>En un mundo donde existen chicas-caballo con gran velocidad, una chica de campo llega a la academia para convertirse en la mejor corredora de Japón.</descripcio>
+    </Anime>
 
-      <Anime id="G002">
-          <Anime id="G002">
-     <cataleg>
-     <Anime id="G001">
-       <titol>Inazuma eleven</titol>
-       <genere>Deportes y aventura</genere>
-       <any>2010</any>
-       <plataforma>CrunchyRoll</plataforma>
-       <valoracio>5.6</valoracio>
-       <descripcio>
-        Unos alumnos del instituto raimon deberan ganar la liga si quieren conservar el club de futbol estos misos poseen diferentes habilidades que deberan perfeccionar juntos para conseguir su meta.
-       </descripcio>
-     </Anime>
+    <Anime id="G005">
+        <titol>Inazuma Eleven</titol>
+        <genere>Deportes / Aventura</genere>
+        <any>2008</any>
+        <data_estrena>05/10/2008</data_estrena>
+        <estudi>OLM</estudi>
+        <plataforma>CrunchyRoll</plataforma>
+        <valoracio>5.6</valoracio>
+        <descripcio>Unos alumnos del instituto Raimon deberán ganar la liga si quieren conservar el club de fútbol. Estos poseen habilidades que deberán perfeccionar.</descripcio>
+    </Anime>
 
-     <Anime id="G002">
+    <Anime id="G006">
+        <titol>Blue Lock</titol>
+        <genere>Deportes</genere>
+        <any>2022</any>
+        <data_estrena>09/10/2022</data_estrena>
+        <estudi>8bit</estudi>
+        <plataforma>CrunchyRoll</plataforma>
+        <valoracio>7.1</valoracio>
+        <descripcio>Cuando quieres hacer de tu vida el fútbol la competencia es reñida. Esto es lo que afrontarán los jugadores de Blue Lock para sobrevivir.</descripcio>
+    </Anime>
 
-         <Anime id="G002">
-          <Anime id="G002">
-     <cataleg>
-     <Anime id="G001">
-       <titol>Blue Lock</titol>
-       <genere>Deportes </genere>
-       <any>2022</any>
-       <plataforma>CrunchyRoll</plataforma>
-       <valoracio>7.1</valoracio>
-       <descripcio>
-        Cuando puedes hacer de tu vida el furbol la competencia es aun más reñida y esto es lo que deberana afrontar los juagadores de blue lock en sus dieferentes partidos contra paises de todo el mundo para potenciar su ego y sobrevivir.
-       </descripcio>
-     </Anime>
-
-     <Anime id="G002">
+</cataleg>

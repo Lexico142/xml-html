@@ -1,11 +1,50 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Detalles</title>
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     
+    <header>
+        <h1>Ficha Técnica (XML Dinámico)</h1>
+    </header>
+
+    <main class="detall">
+        <article class="fitxa-completa">
+            
+            <h1 id="titol-anime">Cargando...</h1>
+
+            <div class="datos">
+                <p><strong>Estudio:</strong> <span id="estudi-anime"></span></p>
+                <p><strong>Estreno:</strong> <span id="data-anime"></span></p>
+                <p><strong>Género:</strong> <span id="genere-anime"></span></p>
+                <p><strong>Año:</strong> <span id="any-anime"></span></p>
+                <p><strong>Plataforma:</strong> <span id="plataforma-anime"></span></p>
+                <p><strong>Valoración:</strong> <span id="valoracio-anime"></span></p>
+            </div>
+            
+            <hr>
+            
+            <div class="descripcion">
+                <h3>Sinopsis:</h3>
+                <p id="descripcio-anime">...</p>
+            </div>
+
+            <div class="boton-volver">
+                <a href="index.html">⬅ Volver al listado</a>
+            </div>
+
+        </article>
+    </main>
+
+    <footer>
+        <p>Lexter y Carlos</p>
+    </footer>
+
+    <script src="carrega-xml.js"></script>
+
 </body>
 </html>
