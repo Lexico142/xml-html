@@ -17,3 +17,9 @@ Atributo id="G..."      |  (URL del navegador)    | G001
 <valoracio>             |  id="valoracio-anime"   | 9.5
 
 <descripcio>            |  id="descripcio-anime"  | Anime con diálogos rápidos y curiosos sobre un estudiante que ayuda a chicas con problemas causados por entidades sobrenaturales
+
+
+
+La función del XML es actuar como una base de datos portátil. Su objetivo es almacenar toda la información de los animes (títulos, géneros, fechas, sinopsis) de forma estructurada, separando completamente el contenido del diseño.
+
+Por otro lado, HTML y CSS se encargan de la presentación visual. El HTML crea la estructura o esqueleto de la página (dónde van los títulos, imágenes y botones), mientras que el CSS aplica el estilo (colores, bordes y maquetación). Gracias a esta separación, el JavaScript puede leer los datos del XML e inyectarlos en el HTML.
