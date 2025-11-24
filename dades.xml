@@ -1,0 +1,26 @@
+<cataleg>
+     <joc id="G001">
+       <titol>Monogatari</titol>
+       <genere>Comedia</genere>
+       <any>2015</any>
+       <plataforma>CrunchyRoll</plataforma>
+       <valoracio>9.5</valoracio>
+       <descripcio>
+         Anime de comedia con diferentes aspectos de humor de edades más avanzadas.
+       </descripcio>
+     </joc>
+
+     <Anime id="G002">
+     <cataleg>
+     <joc id="G001">
+       <titol>Frieren: Más allá del viaje del fin</titol>
+       <genere>Aventura y romance</genere>
+       <any>2021</any>
+       <plataforma>CrunchyRoll</plataforma>
+       <valoracio>9.7</valoracio>
+       <descripcio>
+        Historia de una elfa de avanzada edad que ha viajado por el mundo sin darse cuenta el transcurso del tiempo perdiendo a la persona que ama y ahora busca la paz.
+       </descripcio>
+     </joc>
+
+     <Anime id="G002">
