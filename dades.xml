@@ -43,13 +43,29 @@
           <Anime id="G002">
      <cataleg>
      <Anime id="G001">
-       <titol>Uma musume </titol>
-       <genere>Aventura,romance y comedia</genere>
-       <any>2022</any>
+       <titol>Uma musume pretty dervy </titol>
+       <genere>Deportes y comedia</genere>
+       <any>2024</any>
        <plataforma>CrunchyRoll</plataforma>
-       <valoracio>9.3</valoracio>
+       <valoracio>9.5</valoracio>
        <descripcio>
-        Un chico con insomnio  conoce a una chica que resulta ser un vampiro haciendose amigos viviendo diferentes aventuras por la noche para finalmente enemorar-se.
+        Anime basado en cavallos conocidos en japon que compiten en carreras y deberean superar las diferentes dificultades que debieron afrontar en la vida narradas en una historia.
+       </descripcio>
+     </Anime>
+
+     <Anime id="G002">
+
+      <Anime id="G002">
+          <Anime id="G002">
+     <cataleg>
+     <Anime id="G001">
+       <titol>Inazuma eleven</titol>
+       <genere>Deportes y aventura</genere>
+       <any>2010</any>
+       <plataforma>CrunchyRoll</plataforma>
+       <valoracio>5.6</valoracio>
+       <descripcio>
+        Unos alumnos del instituto raimon deberan ganar la liga si quieren conservar el club de futbol estos misos poseen diferentes habilidades que deberan perfeccionar juntos para conseguir su meta.
        </descripcio>
      </Anime>
 
