@@ -1,5 +1,5 @@
 <cataleg>
-     <joc id="G001">
+     <Anime id="G001">
        <titol>Monogatari</titol>
        <genere>Comedia</genere>
        <any>2015</any>
@@ -8,11 +8,11 @@
        <descripcio>
          Anime de comedia con diferentes aspectos de humor de edades más avanzadas.
        </descripcio>
-     </joc>
+     </Anime>
 
      <Anime id="G002">
      <cataleg>
-     <joc id="G001">
+     <Anime id="G001">
        <titol>Frieren: Más allá del viaje del fin</titol>
        <genere>Aventura y romance</genere>
        <any>2021</any>
@@ -21,6 +21,36 @@
        <descripcio>
         Historia de una elfa de avanzada edad que ha viajado por el mundo sin darse cuenta el transcurso del tiempo perdiendo a la persona que ama y ahora busca la paz.
        </descripcio>
-     </joc>
+     </Anime>
+
+     <Anime id="G002">
+          <Anime id="G002">
+     <cataleg>
+     <Anime id="G001">
+       <titol>Yofukashi no Uta</titol>
+       <genere>Aventura,romance y comedia</genere>
+       <any>2022</any>
+       <plataforma>CrunchyRoll</plataforma>
+       <valoracio>9.3</valoracio>
+       <descripcio>
+        Un chico con insomnio  conoce a una chica que resulta ser un vampiro haciendose amigos viviendo diferentes aventuras por la noche para finalmente enemorar-se.
+       </descripcio>
+     </Anime>
+
+     <Anime id="G002">
+     
+        <Anime id="G002">
+          <Anime id="G002">
+     <cataleg>
+     <Anime id="G001">
+       <titol>Uma musume </titol>
+       <genere>Aventura,romance y comedia</genere>
+       <any>2022</any>
+       <plataforma>CrunchyRoll</plataforma>
+       <valoracio>9.3</valoracio>
+       <descripcio>
+        Un chico con insomnio  conoce a una chica que resulta ser un vampiro haciendose amigos viviendo diferentes aventuras por la noche para finalmente enemorar-se.
+       </descripcio>
+     </Anime>
 
      <Anime id="G002">
